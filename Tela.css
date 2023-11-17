@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #c59d9d;
+    background-color: rgb(13, 38, 71)8, 29;
   }
   
   .container {
@@ -19,11 +19,16 @@ body {
     padding: 8px 20px;
     text-decoration: none;
     background-color: #071627;
-    color: #f1e9e9;
+    color: #fbfdff;
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
   
   .links a:hover {
-    background-color: rgb(41, 21, 48), 0, 179);
+    background-color: rgb(41, 21, 48), 0, 179;
+  }
+  img {
+    border: 2px solid black; /* Borda de 2 pixels sólidos pretos */
+    border-radius: 35px; /* Borda arredondada */
+    padding: 10px; /* Espaçamento interno entre a imagem e a borda */
   }
