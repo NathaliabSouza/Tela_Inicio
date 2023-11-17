@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #c59d9d;
   }
   
   .container {
@@ -18,13 +18,12 @@ body {
     margin: 10px 0;
     padding: 8px 20px;
     text-decoration: none;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #071627;
+    color: #f1e9e9;
     border-radius: 5px;
     transition: background-color 0.3s ease;
   }
   
   .links a:hover {
-    background-color: #0056b3;
+    background-color: rgb(41, 21, 48), 0, 179);
   }
-  
